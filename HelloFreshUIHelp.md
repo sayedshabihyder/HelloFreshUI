@@ -28,6 +28,6 @@ Added UI test cases in above location.
    
    b) TestData: Contains test.properties file to read application URL, credentials,browser etc.
    
-   c)webdriver: Contains drivers exe file (chrome,IE and firefox), to run script on required browser make value true.
+   c) webdriver: Contains drivers exe file (chrome,IE and firefox), to run script on required browser make value true.
    
-   Note: Initial test file WebTest.java is not deleted.For checking failed script screenshit please check "screenshots" folder.
+  Note: Initial test file WebTest.java is not deleted.For checking failed script screenshit please check "screenshots" folder.
